@@ -1,3 +1,11 @@
 h1 {
-    color: black;
+  color: black;
+}
+
+.wrapper {
+  width: 600px;
+}
+
+.prod-img {
+  overflow: scroll;
 }

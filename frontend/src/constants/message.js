@@ -14,10 +14,3 @@ const SUCCESS_MESSAGE = {
   PATCH_PROFILE_IMAGE: '사진을 변경하였습니다.',
   POST_LOGIN: '로그인에 성공했습니다.',
 };
-
-var add = function (a, b) {
-  return a + b;
-};
-
-console.log(add(3, 4));
-console.log(add);

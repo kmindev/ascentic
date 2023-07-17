@@ -30,21 +30,21 @@
 
 
 ### Front-End
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-<img src="https://img.shields.io/badge/redux-toolkit-E34F26?style=for-the-badge&logo=&logoColor=">
+- `React.js`
+- `redux-toolkit`
 
 ### Back-End
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=yellow">
-<img src="https://img.shields.io/badge/JPA-E34F26?style=for-the-badge&logo=&logoColor=">
-<img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=#black">
-<img src="https://img.shields.io/badge/JJWT-E34F26?style=for-the-badge&logo=&logoColor=">
+- `Spring Boot`
+- `Spring Security`
+- `JPA(Java Persistence API)`
+- `JJWT`
   
 ### Database
-- MySQL
+- `MySQL`
   
 ### Open API
-- kakao 로그인 API
-- Toss Payments 결제 API
+- `kakao 로그인 API`
+- `Toss Payments 결제 API`
 
 ## 📅수행 절차
 

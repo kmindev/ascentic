@@ -31,13 +31,13 @@
 
 ### Front-End
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-<img src="https://img.shields.io/badge/redux-toolkit-E34F26?style=for-the-badge&logo=html5&logoColor=#006600">
+<img src="https://img.shields.io/badge/redux-toolkit-E34F26?style=for-the-badge&logo=&logoColor=">
 
 ### Back-End
-<img src="https://img.shields.io/badge/Spring Boot-E34F26?style=for-the-badge&logo=springboot&logoColor=#6DB33F">
-<img src="https://img.shields.io/badge/JPA-E34F26?style=for-the-badge&logo=html5&logoColor=#83B81A">
-<img src="https://img.shields.io/badge/Spring Security-E34F26?style=for-the-badge&logo=html5&logoColor=#6DB33F">
-<img src="https://img.shields.io/badge/JJWT-E34F26?style=for-the-badge&logo=html5&logoColor=#83B81A">
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=yellow">
+<img src="https://img.shields.io/badge/JPA-E34F26?style=for-the-badge&logo=&logoColor=">
+<img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=#black">
+<img src="https://img.shields.io/badge/JJWT-E34F26?style=for-the-badge&logo=&logoColor=">
   
 ### Database
 - MySQL

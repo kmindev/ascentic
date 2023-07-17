@@ -1,12 +1,12 @@
 # ascentic
 
-## Notion Link
+## 🖇Notion Link
 
 
 
 (https://dented-bell-59e.notion.site/ascentic-95bedf2355ae443d81bfed57e146cee7?pvs=4)
 
-## 프로젝트 소개
+## 💡프로젝트 소개
 
 
 
@@ -14,7 +14,7 @@
 - 시중에 존재하는 너무 많은 향으로 인해 이름만 들어서 **어떤 향인지 판단하기가 쉽지 않습니다.**
     - 이 프로젝트는 사용자가 간단한 **취향 테스트를** 통해 본인의 취향을 찾고, **구독 서비스를 통해 원하는 향을 구독해 해당 향에 해당하는 다양한 제품들을 사용**하고, 여러 향 **제품들을 구매할 수 있는 쇼핑몰**을 개발했습니다.
 
-## 팀 소개
+## 👨‍👨‍👧‍👧팀 소개
 
 
 
@@ -25,18 +25,19 @@
 - 전채은
 - 황성민
 
-## 기술 스택
+## 🛠기술 스택
 
 
 
 ### Front-End
-- React.js
-- redux-toolkit(전역 상태 라이브러리)
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/redux-toolkit-E34F26?style=for-the-badge&logo=html5&logoColor=#006600">
 
 ### Back-End
-- Spring Boot
-- JPA(Java Persistence API)
-- JJWT
+<img src="https://img.shields.io/badge/Spring Boot-E34F26?style=for-the-badge&logo=springboot&logoColor=#6DB33F">
+<img src="https://img.shields.io/badge/JPA-E34F26?style=for-the-badge&logo=html5&logoColor=#83B81A">
+<img src="https://img.shields.io/badge/Spring Security-E34F26?style=for-the-badge&logo=html5&logoColor=#6DB33F">
+<img src="https://img.shields.io/badge/JJWT-E34F26?style=for-the-badge&logo=html5&logoColor=#83B81A">
   
 ### Database
 - MySQL
@@ -45,7 +46,7 @@
 - kakao 로그인 API
 - Toss Payments 결제 API
 
-## 수행 절차
+## 📅수행 절차
 
 
 
@@ -93,7 +94,7 @@
 - 스타일 재정비 작업
 - 코드 재정비 작업
 
-## 페이지 구조도
+## 🔠페이지 구조도
 
 
 
@@ -108,21 +109,21 @@
 ![Untitled 1](https://github.com/kmindev/ascentic/assets/97210232/368d38c1-889b-46ea-854f-1cd26b25b25d)
 
 
-## 데이터베이스 설계
+## 📚데이터베이스 설계
 
 
 
 ![Untitled 2](https://github.com/kmindev/ascentic/assets/97210232/6e3d9e64-ed40-4255-921f-e4085a59747e)
 
 
-## 기능 소개
+## ‼기능 소개
 
 ![Untitled 3](https://github.com/kmindev/ascentic/assets/97210232/4824f29a-51a3-4675-884d-58f2cb56f0df)
 
 
 
 
-## 페이지 소개
+## ⭐페이지 소개
 
 ![image](https://github.com/kmindev/ascentic/assets/97210232/c8828402-432a-4725-8275-6b7fa2d81a5b)
 ![image](https://github.com/kmindev/ascentic/assets/97210232/5a493c1b-0169-4047-8465-51590098e973)

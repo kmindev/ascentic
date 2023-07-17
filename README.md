@@ -1,4 +1,4 @@
-# ascentic
+# 🌸ascentic
 
 ## 🖇Notion Link
 
